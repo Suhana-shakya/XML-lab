@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<movies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C:\Suhana\Lab Report2\Number7a.xsd">
+  <movie id="m23">
+    <title>Hum Tum</title>
+    <year>2000</year>
+    <director name="Artist">Karan Johar</director>
+    <comment lang="Eng"></comment>
+  </movie>
+  <movie id="m25">
+    <title>Hum saath saath hai</title>
+    <year>1990</year>
+    <director name="Artist">Ajay</director>
+    <comment lang="Eng">Super Movie</comment>
+  </movie>
+  <movie id="m20">
+    <title>Hum aapke hai koun</title>
+    <year>1990</year>
+    <director name="Artist">Yash Raj</director>
+    <newcomment>Best movie</newcomment>
+  </movie>
+</movies>

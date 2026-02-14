@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<xs:attributeGroup name="studentAttributes">
+  <xs:attribute name="regid" type="xs:ID"/>
+  <xs:attribute name="firstName" type="xs:string"/>
+  <xs:attribute name="lastName" type="xs:string"/>
+  <xs:attribute name="age" type="xs:integer"/>
+  <xs:attribute name="university" type="xs:string"/>
+</xs:attributeGroup>
+  <xs:element name="students">
+    <xs:complexType>
+        <xs:element name="student">
+          <xs:complexType>
+            <xs:attributeGroup ref="studentAttributes"/>
+          </xs:complexType>
+        </xs:element>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

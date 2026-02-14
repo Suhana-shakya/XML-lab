@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE book[
+<!ELEMENT book (title,author+,page_no,price)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (name,phone,email)>
+<!ELEMENT name (first_name,middle_name,last_name)>
+<!ELEMENT first_name (#PCDATA)>
+<!ELEMENT middle_name (#PCDATA)>
+<!ELEMENT last_name (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT page_no (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ATTLIST author title (mr|mrs|ms) "ms">
+<!ATTLIST price currency (NPR|INR|USD) "NPR">
+<!ATTLIST book ISBN ID #REQUIRED>
+]>-->
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C:\Suhana\Lab Report2\Number4a.xsd">
+  <book ISBN="m789">
+    <title>English</title>
+    <author title="mr" phone="9897236275" email="rajesh@gmail.com">
+      <first_name>Rajesh</first_name>  
+      <middle_name>Kumar</middle_name>  
+      <last_name>Khatiwada</last_name>
+    </author>
+    <author title="mrs" phone="9656717815" email="shristi@gmail.com">
+      <first_name>Shristi</first_name>  
+      <middle_name>Maya</middle_name>  
+      <last_name>Tandukar</last_name>
+    </author>
+    <author title="ms" phone="9841236154" email="krisha@gmail.com">
+      <first_name>Krisha</first_name>  
+      <middle_name>Laxmi</middle_name>  
+      <last_name>Basnet</last_name>
+    </author>
+    <page_no>345</page_no>
+    <price currency="NPR">500</price>
+  </book>
+</books>

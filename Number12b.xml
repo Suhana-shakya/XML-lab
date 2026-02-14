@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+ <bib xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Number12.xsd">
+  <book year="1994">
+    <title>TCP/IP Illustrated</title>
+    <author>Stevens</author>
+    <publisher>Ashley-Wile</publisher>
+    <price>65.95</price>
+  </book>
+  <book year="1994">
+    <title>Principle od Databases</title>
+    <author>Abiteboul</author>
+    <publisher>Addison-Wile</publisher>
+    <price>35.89</price>
+  </book>
+  <book year="1992">
+    <title>Advanced Programming in Unix Environment</title>
+    <author>Stevens</author>
+    <publisher>Addison-Wile</publisher>
+    <price>65.95</price>
+  </book>
+  <book year="2000">
+    <title>Data on the Web</title>
+    <author>Abiteboul</author> 
+    <author>Buneman</author>
+    <author>Suciu</author>
+    <publisher>Morgan</publisher>
+    <price>39.95</price>
+  </book>
+  <book year="1992">
+    <title>The Economics of Technology</title>
+    <author>Gerbarg</author>
+    <publisher>Kluwer</publisher>
+    <price>129.95</price>
+  </book>
+</bib>

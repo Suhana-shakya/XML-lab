@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<university xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C:\Suhana\Lab Report2\Number6a.xsd">
+  <school sid="s9">
+    <name>Shree Mahankal Secondary School</name>
+    <location>Mahaboudha</location>
+    <staffCollection>
+      <staff stId="st8">
+        <name>Rama</name>
+        <category>general</category>
+        <address>
+          <street>Main street</street>
+          <suburb>Baneshwor</suburb>
+          <postcode>44600</postcode>
+        </address>
+        <address>
+          <street>45 Lake Road</street>
+          <suburb>Lakeside</suburb>
+          <postcode>33700</postcode>
+        </address>
+      </staff>
+      <staff stId="st00">
+        <name>Kumar Sagar</name>
+        <title>Professor</title>
+        <category>academic</category>
+        <address>
+          <street>1245 street</street>
+          <suburb>Dillibazaar</suburb>
+          <postcode>440</postcode>
+        </address>
+      </staff>
+      <staff stId="st01">
+        <name>Surana Shrestha</name>
+        <title>Lab Professor</title>
+        <category>technical</category>
+        <address>
+          <street>2nd street</street>
+          <suburb>Naya bazaar</suburb>
+          <postcode>4400</postcode>
+        </address>
+      </staff>
+    </staffCollection>
+    <subjectCollection>
+      <subject subId="sub6">
+        <name>Web Technology</name>
+        <description>HTML and CSS</description>
+        <capacity>60</capacity>
+        <taughtBy staffRef="st00"/>
+      </subject>
+      <subject subId="sub8">
+        <name>Science</name>
+        <description>Evaporation</description>
+        <capacity>50</capacity>
+        <taughtBy staffRef="st01"/>
+      </subject>
+    </subjectCollection>
+  </school>
+</university>

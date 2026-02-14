@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book SYSTEM "Number2.dtd">
+<book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C:\Suhana\Lab Report2\Number2a.xsd">
+  <title>OOP in Java</title>
+  <author>Bhupendra Singh Saud</author>
+  <ISBN_no>978-9937-724-52-4</ISBN_no>
+  <publisher>KEC</publisher>
+  <edition>First</edition>
+  <price>450</price>
+</book>

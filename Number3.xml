@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+  <song>
+    <name>Rewrite the stars</name>
+    <singer>Annie Marrie</singer>
+    <compose_by>James Arthur</compose_by>  
+    <length>4 min</length>
+  </song>
+  <song>
+    <name>Aparibhasit</name>
+    <singer>Swapnil Sharma</singer>
+    <compose_by>SWAR</compose_by>  
+    <length>5 min</length>
+  </song>
+  <song>
+    <name>We can't be Friends</name>
+    <singer>Ariana Grande</singer>
+    <compose_by>Ariana</compose_by>  
+    <length>5 min</length>
+  </song>
+  <song>
+    <name>Birds of a Feather</name>
+    <singer>Billie Eilish</singer>
+    <compose_by>Billie</compose_by>  
+    <length>4 min</length>
+  </song>
+</songs>

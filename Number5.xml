@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C:\Suhana\Lab Report2\Number5a.xsd">
+  <student roll="m12">
+    <name>
+      <first_name>Nirjala</first_name>
+      <middle_name>Ale</middle_name> 
+      <last_name>Magar</last_name>
+    </name>
+    <email>nirjala@gmail.com</email>
+    <phone>9726154764</phone>
+    <address type="permanent">Syangja</address>
+    <address type="temporary">Tokha</address>
+    <DOB type="AD">2006-02-20</DOB>
+    <DOB type="BS">2062-11-08</DOB>
+  </student>
+</students>
