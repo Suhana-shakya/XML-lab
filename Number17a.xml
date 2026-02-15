@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<sales xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Number17b.xsd">
+  <salesman>
+    <name title="person">
+      <first>Steve</first>
+      <middle>Harb</middle>
+      <last>Hawkins</last>
+    </name>
+    <phone type="personal">98235462517</phone>
+    <area>Kathmandu</area>
+    <records>
+      <record>
+        <product id="p101">
+          <sku>gurde</sku>
+          <productName>Shampoo</productName>
+        </product>
+        <quantity>12</quantity>
+        <price currency="INR">350</price>
+        <date type="AD">2030-01-01</date>
+      </record>
+      <record>
+        <product id="p102">
+          <sku>rubbee</sku>
+          <productName>Chocolate</productName>
+        </product>
+        <quantity>40</quantity>
+        <price currency="NPR">50</price>
+        <date type="BS">2082-10-10</date>
+      </record>
+    </records>
+  </salesman>
+  <salesman>
+    <name title="person2">
+      <first>Dustin</first>
+      <last>Brown</last>
+    </name>
+    <phone type="work">9512417471</phone>
+    <area>Bhaktapur</area>
+    <records>
+      <record>
+        <product id="p103">
+          <sku>suki</sku>
+          <productName>Eyeliner</productName>
+        </product>
+        <quantity>20</quantity>
+        <price currency="NPR">150</price>
+        <date type="AD">2026-10-15</date>
+      </record>
+      <record>
+        <product id="p105">
+          <sku>pupuu</sku>
+          <productName>Biscuit</productName>
+        </product>
+        <quantity>20</quantity>
+        <price currency="INR">300</price>
+        <date type="BS">2082-03-19</date>
+      </record>
+    </records>
+  </salesman>
+</sales>

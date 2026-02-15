@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Number16b.xsl"?>
 <products>
   <productName>Shampoo</productName>
   <category>Beauty</category>
