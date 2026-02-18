@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Number9b.xsl"?>
+<root>
+  <main_heading>Hello Everyone! Welcome to XML to CSS</main_heading>
+  <category>
+    <title>Algo</title>
+    <item>Greedy Algo</item>
+    <item>Ramdomised Algo</item>
+    <item>Searching Algo</item>
+    <item>Sorting Algo</item>
+  </category>
+  <category>
+    <title>Data Structures</title>
+    <item>Stack</item>
+    <item>Queue</item>
+    <item>Linked List</item>
+  </category>
+  <category>
+    <title>Web Technology</title>
+    <item>HTML</item>
+    <item>CSS</item>
+    <item>Java Script</item>
+    <item>PHP</item>
+  </category>
+  <category>
+    <title>Languages</title>
+    <item>C/C++</item>
+    <item>Java</item>
+    <item>Python</item>
+    <item>Ruby</item>
+  </category>
+  <category>
+    <title>DBMS</title>
+    <item>Basics</item>
+    <item>ER Diagram</item>
+    <item>Normalization</item>
+    <item>Transaction Concepts</item>
+  </category>
+</root>

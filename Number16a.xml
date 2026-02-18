@@ -1,8 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="Number16b.xsl"?>
-<products>
-  <productName>Shampoo</productName>
-  <category>Beauty</category>
-  <price>450</price>
-  <quantity>20</quantity>
-</products>
+<inventory>
+  <products>
+    <productName>Shampoo</productName>
+    <category>Beauty</category>
+    <price>450</price>
+    <quantity>20</quantity>
+  </products>
+  <products>
+    <productName>Laptop</productName>
+    <category>Electronics</category>
+    <price>500</price>
+    <quantity>15</quantity>
+  </products>
+  <products>
+    <productName>Desk</productName>
+    <category>Furniture</category>
+    <price>150</price>
+    <quantity>12</quantity>
+  </products>
+</inventory>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hospital xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Number13b.xsd">
+  <patient>
+    <name>
+      <first>John</first>
+      <middle>Doe</middle>
+      <last>Quincy</last>
+    </name>
+    <patientNumber>12345</patientNumber>
+    <doctorName>Dr. Smith</doctorName>
+    <disease>Hypertension</disease>
+    <disease>Stones</disease>
+    <consultationCharge>1500</consultationCharge>
+    <labTests>
+      <test>Blood Sugar panel</test>
+      <test>ECG</test>
+      <test>Lipid Profile Test</test>
+    </labTests>
+  </patient>
+</hospital>

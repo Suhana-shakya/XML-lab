@@ -1,0 +1,26 @@
+oceans{
+    display:block;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    border: 1px solid #add8e6;
+    margin: 10px;
+}
+heading{
+    display: block;
+    background-color: #d0e4fe;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding: 5px;
+    width: fit-content;
+    margin-bottom: 15px;
+}
+name{
+    display: block;
+    font-weight: bold;
+    font-size: 1em;
+}
+area,depth{
+    display:block;
+    font-size: 0.85rem;
+    margin-left: 2px;
+}
