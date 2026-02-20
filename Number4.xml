@@ -1,20 +1,4 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!--<!DOCTYPE book[
-<!ELEMENT book (title,author+,page_no,price)>
-<!ELEMENT title (#PCDATA)>
-<!ELEMENT author (name,phone,email)>
-<!ELEMENT name (first_name,middle_name,last_name)>
-<!ELEMENT first_name (#PCDATA)>
-<!ELEMENT middle_name (#PCDATA)>
-<!ELEMENT last_name (#PCDATA)>
-<!ELEMENT phone (#PCDATA)>
-<!ELEMENT email (#PCDATA)>
-<!ELEMENT page_no (#PCDATA)>
-<!ELEMENT price (#PCDATA)>
-<!ATTLIST author title (mr|mrs|ms) "ms">
-<!ATTLIST price currency (NPR|INR|USD) "NPR">
-<!ATTLIST book ISBN ID #REQUIRED>
-]>-->
 <books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C:\Suhana\Lab Report2\Number4a.xsd">
   <book ISBN="m789">
     <title>English</title>

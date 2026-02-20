@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<songs>
+<songs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Number3a.xsd">
   <song>
     <name>Rewrite the stars</name>
     <singer>Annie Marrie</singer>

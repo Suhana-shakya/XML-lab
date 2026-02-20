@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="Number9b.xsl"?>
-<root>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Number9c.xsd">
   <main_heading>Hello Everyone! Welcome to XML to CSS</main_heading>
   <category>
     <title>Algo</title>

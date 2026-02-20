@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="Number8b.css"?>
-<oceans>
+<oceans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Number8c.xsd">
   <heading>Oceans</heading>
   <ocean>
     <name>Arctic</name>

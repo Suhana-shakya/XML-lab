@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="Number18b.xsl"?>
-<students>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Number18c.xsd">
   <student>
-    <name>Ram Thapa</name>>
+    <name>Ram Thapa</name>
     <reg_no>5454545</reg_no>
     <symbol_number>87878</symbol_number>
     <marks>

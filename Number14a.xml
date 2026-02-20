@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="Number14b.xsl"?>
-<catalog>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Number14c.xsd">
   <book id="bk101">
     <author>Gamberde, Mathew</author>
     <title>XML Developers's Guide</title>
@@ -9,7 +9,7 @@
     <publish_date>2000-10-01</publish_date>
     <description>An in-depth look at creating applications with XML</description>
   </book>
-    <book id="bk102">
+  <book id="bk102">
     <author>Steve Hawkins</author>
     <title>OOP in Java</title>
     <genre>Programming</genre>
@@ -17,7 +17,7 @@
     <publish_date>2010-05-19</publish_date>
     <description>An in-depth look at creating applications with Java</description>
   </book>
-    <book id="bk103">
+  <book id="bk103">
     <author>Mathew</author>
     <title>HTML</title>
     <genre>Computer</genre>
@@ -25,7 +25,7 @@
     <publish_date>2014-12-23</publish_date>
     <description>An in-depth look at creating websites with HTML</description>
   </book>
-    <book id="bk104">
+  <book id="bk104">
     <author>Gamberde</author>
     <title>CSS</title>
     <genre>Computer</genre>
@@ -33,7 +33,7 @@
     <publish_date>2010-10-10</publish_date>
     <description>Designing websites with CSS</description>
   </book>
-    <book id="bk105">
+  <book id="bk105">
     <author>Millie Bobby</author>
     <title>C Programming</title>
     <genre>Computer</genre>

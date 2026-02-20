@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="students">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="student" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" type="xs:string"/>
+              <xs:element name="reg_no" type="xs:integer"/>
+              <xs:element name="symbol_number" type="xs:integer"/>
+              <xs:element name="marks">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="web" type="xs:integer"/>
+                    <xs:element name="sad" type="xs:integer"/>
+                    <xs:element name="dsa" type="xs:integer"/>
+                    <xs:element name="java" type="xs:integer"/>
+                    <xs:element name="stat" type="xs:integer"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
